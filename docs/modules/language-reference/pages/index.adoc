@@ -4683,7 +4683,7 @@ TIP: If incorporating escape characters into a glob pattern, use <<custom-string
 |Pattern |Description
 
 |`*.pc[lf]`
-|Anything suffixed by `.pkl`, or `.pcf`.
+|Anything suffixed by `.pcl`, or `.pcf`.
 
 |`**.y{a,}ml`
 |Anything suffixed by either `yml` or `yaml`, crossing directory boundaries. 
